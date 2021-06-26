@@ -1,0 +1,2 @@
+# AdmobAppAds
+Sample/Test file.
